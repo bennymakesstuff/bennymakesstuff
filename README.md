@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning an alternative to Laravel and MySQL by building in NodeJS and MongoDB
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 You can reach me at
-- Bitclout at https://bitclout.com/u/BennyMakes
 - Twitter @bennymakesstuff
