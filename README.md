@@ -2,5 +2,6 @@
 - 👀 I’m interested in IndieHacking and Ice Hockey
 - 🌱 I’m currently learning an alternative to Laravel and MySQL by building in NodeJS and MongoDB
 - 💞️ I’m looking to collaborate on anything really.
+- 👔 Working the daily as a PHP/Typescript engineer specialising in designing/developing creative business soltions through a consultative process.
 - 📫 You can reach me at
 - Twitter @bennymakesstuff
