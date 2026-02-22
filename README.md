@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bennymakesstuff
-- 👀 I’m interested in Business, IndieHacking and Ice Hockey
-- 🌱 I’m currently growing through new and challenging roles in a self sustraining, established start up.
+- 👀 I’m interested in Building things & Ice Hockey
+- 🌱 I’m currently growing through new and challenging roles in a self sustaining, established start up.
 - 💞️ Always interested in ideas and cool problems.
 - 👔 Working the daily as a Engineer/Product Manager.
 - 📫 You can reach me at
